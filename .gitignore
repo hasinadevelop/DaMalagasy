@@ -1,9 +1,1 @@
-
-###> symfony/framework-bundle ###
-/bin
 /bin/*
-/.settings
-/.settings/*
-/.classpath
-/.project
-/*.txt
